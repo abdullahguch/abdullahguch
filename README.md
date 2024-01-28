@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Abdullah Guc
+## Hi there 👋 Welcome to my Github Profile!
 
-- 🌱 I’m currently learning Python, and ethical hacking
-- 👯 You can follow me from various social media by searching my handle @abdullahguch
+- 🌱 I’m currently learning Python, and ethical hacking.
+- I'm developing a web app using MERN Stack.
+- 👯 You can follow or connect with me from various social media by searching my handle @abdullahguch.
+- Connect with me!!
