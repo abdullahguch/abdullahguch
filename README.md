@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my Github Profile!
+## Hi there 👋 Welcome to my Github profile!
 
 - 🌱 I’m currently learning Python, and ethical hacking.
 - I'm developing a web app using MERN Stack.
