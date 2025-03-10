@@ -6,9 +6,9 @@
 
 # What’s Cookin’ in My Code Kitchen?
 
-🐍 Python projects that slither their way into your heart.
-🌐 Full-stack stuff so slick they’ll make your browser blush.
-🔒 Ethical hacking tricks—because breaking in is more fun when it’s legal.
+- 🐍 Python projects that slither their way into your heart.
+- 🌐 Full-stack stuff so slick they’ll make your browser blush.
+- 🔒 Ethical hacking tricks—because breaking in is more fun when it’s legal.
 
 # Random Bits & Bytes About Me
 
